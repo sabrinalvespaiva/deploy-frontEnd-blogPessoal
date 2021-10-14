@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+html{
+    scroll-behavior: smooth;
+}
+
+.fs-54{
+    font-size: 54pt;
+}
+
+.fs-18{
+    font-size: 18pt;
+}
+
+.roxo1{
+    background-color: #7a297a;
+}
+
+.roxo2{
+    background-color: #df9fdf;
+}
+
+.roxo3{
+    background-color: #dc7adc;
+}
+
+.roxoletra{
+    color: #7a297a;
+}
